@@ -1,0 +1,15 @@
+*.csv
+*.Rhistory
+*.mzXML
+*.d
+*.xlsx
+*.asv
+*.RData
+*.xls
+*.zip
+ToolBox/Rcall/Rrun.Rout
+ToolBox/Rcall/Rrun.R
+ToolBox/Rcall/Rpush.mat
+*.mat
+ToolBox/Bridge2/python3env/
+ToolBox/Bridge2/__pycache__/
